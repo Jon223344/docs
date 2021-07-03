@@ -77,6 +77,6 @@ Enterprise owners and billing managers can access and manage all billing setting
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Billing", click the **Past Invoices** tab to see a summary of your past billing activity.
-  ![View payment history tab](/assets/images/help/business-accounts/view-payment-history.png)
+  !Note[View payment history tab](/assets/images/help/business-accounts/view-payment-history.png)
 
-{% endif %}
+{% endNoteif %}
